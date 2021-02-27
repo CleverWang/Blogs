@@ -22,4 +22,10 @@
 **如果发现其他本来可以调用独显的软件不再调用独显了，也可以使用本方法试试，但不保证有效哈。** 
 问题解决，撒花~
 
+**2021.1.2更新：**
+感谢[JamesTt](https://www.jianshu.com/u/3e7929dbf483)提醒，NVIDIA控制面板中提供了直达“Windows图形设置”的入口：
+![NVIDIA控制面板的图形设置入口](https://upload-images.jianshu.io/upload_images/6411513-906e5aad9c7abf86.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+点击可以直接转跳到图形设置中对每个程序进行单独的图形设置。
+
+
 > 参考：https://www.bilibili.com/read/cv6266330/
