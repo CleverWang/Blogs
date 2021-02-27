@@ -258,4 +258,4 @@ if __name__ == '__main__':
 
 ![动态更新](https://upload-images.jianshu.io/upload_images/6411513-07d1c3749a4fb166.gif?imageMogr2/auto-orient/strip)
 
-> 参考：https://matplotlib.org/stable/gallery/user_interfaces/embedding_in_qt_sgskip.html
+> 参考：<https://matplotlib.org/stable/gallery/user_interfaces/embedding_in_qt_sgskip.html>

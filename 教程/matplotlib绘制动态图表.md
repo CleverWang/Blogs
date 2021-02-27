@@ -83,4 +83,4 @@ if __name__ == '__main__':
 
 ![结果](https://upload-images.jianshu.io/upload_images/6411513-6fc29fbacd43bdc0.gif?imageMogr2/auto-orient/strip)
 
-> 参考：https://matplotlib.org/stable/tutorials/introductory/usage.html#what-is-interactive-mode
+> 参考：<https://matplotlib.org/stable/tutorials/introductory/usage.html#what-is-interactive-mode>

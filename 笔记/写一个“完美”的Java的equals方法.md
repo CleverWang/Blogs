@@ -1,3 +1,5 @@
+# 写一个“完美”的Java的equals方法
+
 ## 原文
 
 &emsp;摘自Core Java(Volume I--Fundamentals 9th Edition)：
@@ -39,4 +41,4 @@ equals的语义在子类有所变化，使用getClass；
 **getClass的规则是：采用==来进行检查是否相等的，是严格的判断，不会存在继承方面的考虑，也就是说只判断该继承层次上是否equals，进一步说子类的equals语义变化了。
 instanceof的规则是:你属于该类或者该类的子类吗？考虑了继承，继承层次上equals语义一致；**
 
-> 参考：http://blog.csdn.net/hzw19920329/article/details/51095413
+> 参考：<http://blog.csdn.net/hzw19920329/article/details/51095413>
